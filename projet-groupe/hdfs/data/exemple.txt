@@ -1,0 +1,10 @@
+Bonjour tout le monde, ceci est un exemple de texte pour le projet Big Data.
+MapReduce est un modèle de programmation pour traiter de grandes quantités de données.
+HDFS est un système de fichiers distribué qui permet de stocker des données sur plusieurs machines.
+Kafka est une plateforme de streaming distribuée pour le traitement de flux de données en temps réel.
+Big Data Big Data Big Data analyse données traitement
+Hadoop Hadoop MapReduce MapReduce HDFS HDFS
+Bienvenue dans le monde du Big Data et des technologies de traitement distribué.
+Les données massives nécessitent des outils performants et scalables.
+Apache Hadoop est l'écosystème leader pour le traitement de données volumineuses.
+Le streaming temps réel permet de traiter les données au fur et à mesure de leur arrivée.
